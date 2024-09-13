@@ -1,15 +1,33 @@
 ## 👋 Hi there
 
----
-
 * primarily use JavaScript for programming
-* strive to keep learning and contribute with what I’ve learned
+* strive to keep learning and contribute with what I've learned
 * Previously ran my own e-commerce business for 5 years, where I developed strong problem-solving skills, communication, and an interest in user experience
 
+&nbsp;
+
+## 🛠 Projects
+
+### 🌱 Plantour
+* Finding plants around me and completing missions
+Front-end
+  - Language : 
+  - Skill : 
+Detailed project description (Front-end)
+Back-end
+  - Language :
+  - Skill : 
+Detailed project description (Back-end)
+ 
+### 🏘 Transform House
+* A house that transforms according to the screen size
+  
+### 👕 Danton
+* Danton online shopping mall clone coding
+  
+&nbsp;
 
 ## 🛠 Tech Stack
-
----
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -23,6 +41,11 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
+&nbsp;
+
+
+
 
 <!--
 **ybmin1/ybmin1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
