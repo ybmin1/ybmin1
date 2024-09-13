@@ -13,17 +13,29 @@
 Front-end
   - Language : 
   - Skill : 
-Detailed project description (Front-end)
+  - Detailed project description (Front-end)
 Back-end
   - Language :
   - Skill : 
-Detailed project description (Back-end)
+  - Detailed project description (Back-end)
  
 ### 🏘 Transform House
 * A house that transforms according to the screen size
-  
+* Front-end
+  - Language : 
+  - Skill : 
+  - Detailed project description (Front-end)
+
 ### 👕 Danton
 * Danton online shopping mall clone coding
+* Front-end
+  - Language : 
+  - Skill : 
+  - Detailed project description (Front-end)
+Back-end
+  - Language :
+  - Skill : 
+  - Detailed project description (Back-end)
   
 &nbsp;
 
