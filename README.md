@@ -8,6 +8,7 @@
 
 # 🛠 Projects
 
+&nbsp;  
 ## 1. 🌱 Plantour
 
 >Finding plants around me and completing missions!
@@ -15,38 +16,49 @@
 >  * Development Period: 1 July 2024 – 23 August 2024
 >  * Role: Responsible for full front-end development, including UI/UX design, and actively involved in the project planning and decision-making process.
 > &nbsp;  
->>Front-end  
+>>Front-end
 >>    * Language : JavaScript  
 >>    * Skill : React.js  
 >>    * [Detailed project description (Front-end)](https://github.com/Plantour/frontend)
->
-> &nbsp;
->
->>Back-end  
+>  
+>>Back-end
 >>    * Language : Java
 >>    * Skill : Spring
 >>    * [Detailed project description (Back-end)](https://github.com/Plantour/backend)
- 
+&nbsp;  
+
+&nbsp;   
 ## 2. 🏘 Transform House
-* A house that transforms according to the screen size
-* Front-end
-  - Language : 
-  - Skill : 
-  - Detailed project description (Front-end)
 
+>A house that transforms according to the screen size.
+> &nbsp;  
+>  * Development Period: 
+>  * Role:  
+> &nbsp;  
+>>Front-end
+>>    * Language : JavaScript  
+>>    * [Detailed project description (Front-end)]//추가하기
+&nbsp;  
+
+&nbsp;   
 ## 3. 👕 Danton
-* Danton online shopping mall clone coding
-* Front-end
-  - Language : 
-  - Skill : 
-  - Detailed project description (Front-end)
-Back-end
-  - Language :
-  - Skill : 
-  - Detailed project description (Back-end)
-  
-&nbsp;
+>Danton online shopping mall clone coding
+> &nbsp;  
+>  * Development Period: 
+>  * Role: 
+> &nbsp;  
+>>Front-end
+>>    * Language : JavaScript  
+>>    * Skill : React.js  
+>>    * [Detailed project description (Front-end)]//추가하기
+>  
+>>Back-end
+>>    * Language : Java
+>>    * Skill : Spring
+>>    * [Detailed project description (Back-end)]//추가하기
+&nbsp;  
 
+&nbsp;   
 ## 🛠 Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
