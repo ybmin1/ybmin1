@@ -8,28 +8,31 @@
 
 # 🛠 Projects
 
-## 🌱 Plantour
+## 1. 🌱 Plantour
 
-Finding plants around me and completing missions!    
-  * Development Period: 1 July 2024 – 23 August 2024
-  * Role: Responsible for full front-end development, including UI/UX design, and actively involved in the project planning and decision-making process.  
-Front-end  
-    * Language : JavaScript  
-    * Skill : React.js  
-    * [Detailed project description (Front-end)](https://github.com/Plantour/frontend)  
-Back-end
-    * Language : Java
-    * Skill : Spring
-    * [Detailed project description (Back-end)](https://github.com/Plantour/backend)
+>Finding plants around me and completing missions!
+> &nbsp;  
+>  * Development Period: 1 July 2024 – 23 August 2024
+>  * Role: Responsible for full front-end development, including UI/UX design, and actively involved in the project planning and >decision-making process.
+> &nbsp;  
+>>Front-end  
+>>    * Language : JavaScript  
+>>    * Skill : React.js  
+>>    * [Detailed project description (Front-end)](https://github.com/Plantour/frontend)
+> &nbsp;
+>>Back-end
+>>    * Language : Java
+>>    * Skill : Spring
+>>    * [Detailed project description (Back-end)](https://github.com/Plantour/backend)
  
-## 🏘 Transform House
+## 2. 🏘 Transform House
 * A house that transforms according to the screen size
 * Front-end
   - Language : 
   - Skill : 
   - Detailed project description (Front-end)
 
-## 👕 Danton
+## 3. 👕 Danton
 * Danton online shopping mall clone coding
 * Front-end
   - Language : 
