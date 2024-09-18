@@ -13,13 +13,13 @@
 >Finding plants around me and completing missions!
 > &nbsp;  
 >  * Development Period: 1 July 2024 – 23 August 2024
->  * Role: Responsible for full front-end development, including UI/UX design, and actively involved in the project planning and >decision-making process.
+>  * Role: Responsible for full front-end development, including UI/UX design, and actively involved in the project planning and decision-making process.
 > &nbsp;  
 >>Front-end  
 >>    * Language : JavaScript  
 >>    * Skill : React.js  
 >>    * [Detailed project description (Front-end)](https://github.com/Plantour/frontend)
-> &nbsp;
+> &nbsp;  
 >>Back-end
 >>    * Language : Java
 >>    * Skill : Spring
