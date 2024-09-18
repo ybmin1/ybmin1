@@ -20,7 +20,7 @@
 >>    * Skill : React.js  
 >>    * [Detailed project description (Front-end)](https://github.com/Plantour/frontend)
 > &nbsp;  
->>Back-end
+>>Back-end  
 >>    * Language : Java
 >>    * Skill : Spring
 >>    * [Detailed project description (Back-end)](https://github.com/Plantour/backend)
