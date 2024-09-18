@@ -32,8 +32,8 @@
 
 >A house that transforms according to the screen size.
 > &nbsp;  
->  * Development Period: 
->  * Role:  
+>  * Development Period: 16 June 2024 – 29 June 2024  
+>  * Role: Developed the project independently  
 > &nbsp;  
 >>Front-end
 >>    * Language : JavaScript  
