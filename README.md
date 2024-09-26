@@ -41,24 +41,6 @@
 &nbsp;  
 
 &nbsp;   
-## 3. 👕 Danton
->Danton online shopping mall clone coding
-> &nbsp;  
->  * Development Period: 
->  * Role: 
-> &nbsp;  
->>Front-end
->>    * Language : JavaScript  
->>    * Skill : React.js  
->>    * [Detailed project description (Front-end)]//추가하기
->  
->>Back-end
->>    * Language : Java
->>    * Skill : Spring
->>    * [Detailed project description (Back-end)]//추가하기
-&nbsp;  
-
-&nbsp;   
 # 🛠 Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
